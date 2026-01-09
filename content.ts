@@ -165,6 +165,11 @@ content: [
       "title": "KOSGEB. Genç Girişimcilik Destekleri",
       "url": "https://www.kosgeb.gov.tr"
     }
+  ],
+  chartType: 'bar',
+  chartData: [
+    { name: 'Girişimciliğe Eğilim', value: 45 },
+    { name: 'Aktif Girişimci', value: 15 }
   ]
   },
   {
@@ -271,6 +276,14 @@ content: [
       "title": "SODEV Gençlik Araştırması",
       "url": "http://sodev.org.tr"
     }
+  ],
+  chartType: 'bar',
+  chartData: [
+    { name: 'Daha iyi iş olanakları', value: 74 },
+    { name: 'Ülkenin gidişatı olumsuz', value: 30 },
+    { name: 'Eğitim fırsatları', value: 24 },
+    { name: 'Kişisel özgürlük', value: 22 },
+    { name: 'İfade özgürlüğü eksikliği', value: 6 }
   ]
   },
   {
@@ -313,6 +326,11 @@ content: [
       "title": "Harvard Business Review. The Paradox of Digital Job Search",
       "url": "https://hbr.org"
     }
+  ],
+  chartType: 'pie',
+  chartData: [
+    { name: 'Sosyal medyada iş bulan', value: 79 },
+    { name: 'Diğer yollar', value: 21 }
   ]
   },
   {
@@ -351,6 +369,11 @@ content: [
       { title: "UNDP Türkiye. Bölgesel Kalkınma ve Gençlik", url: "https://www.undp.org/tr/turkiye" },
       { title: "Bölgesel Eşitsizlik ve Gençlik Üzerine Akademik Çalışmalar", url: "https://scholar.google.com" },
       { title: "Kalkınma Ajansları Faaliyet Raporları", url: "https://www.ka.gov.tr" }
+    ],
+    chartType: 'bar',
+    chartData: [
+      { name: 'Kent işsizlik', value: 13 },
+      { name: 'Taşra işsizlik', value: 6 }
     ]
   },
   {
@@ -407,6 +430,11 @@ content: [
       title: "Sosyal Sermaye ve İstihdam Üzerine Akademik Çalışmalar",
       url: "https://scholar.google.com"
     }
+  ],
+  chartType: 'bar',
+  chartData: [
+    { name: 'Torpil etkili diyenler', value: 77 },
+    { name: 'İşsizliğin nedeni torpil diyenler', value: 40.5 }
   ]
   },
   {
